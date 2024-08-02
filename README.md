@@ -91,7 +91,7 @@ Perform geographical analysis to examine spatial variations in weather condition
 Use forecasting techniques to predict future weather trends based on historical data.
 ![correlation_matrix](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/fcba61f4-4430-4c60-b455-6827125b740f)
 
-![regression_curve](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/3cc0daad-22d4-4b9b-a361-f6b3f5d8d7fa)
+![regression_curve](https://github.com/Preetish2603/Data-Analyst-Project-Series/blob/main/PROJECT-2/regression_curve.png)
 
 DATA VISUALIZATION USING POWERBI:
 
