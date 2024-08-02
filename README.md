@@ -50,7 +50,7 @@ By exploring the Iris dataset through data visualization techniques, we can gain
 The identified patterns suggest that Sepal features might be particularly useful for distinguishing Setosa from the other two species, while Petal features might exhibit more variation within Versicolor and Virginica.
 Here is the Power Bi Dashbord:
 
-![image]([https://github.com/sankalpsinghthakur/Iris-dataset-/assets/102253297/7f691be5-a40e-43f8-8ed3-52f05861dc11](https://github.com/Preetish2603/Data-Analyst-Project-Series/blob/main/PROJECT-1/IRIS_VISUAL.png))
+![image](https://github.com/Preetish2603/Data-Analyst-Project-Series/blob/main/PROJECT-1/IRIS_VISUAL.png)
 
  Data Preparation with Python
 Data Loading: Load the weather dataset using Python libraries such as Pandas.
